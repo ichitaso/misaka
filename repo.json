@@ -29,8 +29,13 @@
             "Screenshot": ["https://raw.githubusercontent.com/ichitaso/misaka/main/images/ss/iPhoneXRespringSS.png"],
             "Releases": [
                 {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/ichitaso/misaka/main/packages/com.ichitaso.iphonex-respring_1.0.misaka",
+                    "Version": "1.0.1",
+                    "Package": "https://raw.githubusercontent.com/ichitaso/misaka/main/packages/com.ichitaso.iphonex-respring_1.0.1.misaka",
+                    "Description": "To work even if @3x is not in the target file by kumiki"
+                },
+                {
+                    "Version": "1.0.0",
+                    "Package": "https://raw.githubusercontent.com/ichitaso/misaka/main/packages/com.ichitaso.iphonex-respring_1.0.0.misaka",
                     "Description": "First release"
                 }
             ],
